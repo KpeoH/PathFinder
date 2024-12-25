@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|c:\\users\\tessdv\\desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u043E\u0441\u0435\u043D\u044C\\pathfinder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|c:\\users\\tessdv\\desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u043E\u0441\u0435\u043D\u044C\\pathfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|c:\\users\\tessdv\\desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u043E\u0441\u0435\u043D\u044C\\pathfinder\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|c:\\users\\tessdv\\desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u043E\u0441\u0435\u043D\u044C\\pathfinder\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|c:\\users\\tessdv\\desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u043E\u0441\u0435\u043D\u044C\\pathfinder\\pathfinder.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D629012D-EF7C-4CD4-842F-F75AC94BBF19}|pathfinder.csproj|solutionrelative:pathfinder.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T08:41:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T08:41:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:41:09.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:41:08.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pathfinder.http",
+              "DocumentMoniker": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\pathfinder.http",
+              "RelativeDocumentMoniker": "pathfinder.http",
+              "ToolTip": "C:\\Users\\TeSSDv\\Desktop\\\u0443\u0447\u0435\u0431\u043D\u043E\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 2024\\\u041E\u0421\u0415\u041D\u042C\\pathfinder\\pathfinder.http",
+              "RelativeToolTip": "pathfinder.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-09T08:40:35.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

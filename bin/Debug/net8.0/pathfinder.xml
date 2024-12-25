@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>pathfinder</name>
+    </assembly>
+    <members>
+        <member name="M:pathfinder.Controllers.PathFinderController.GetCities">
+            <summary>
+            501 город 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:pathfinder.Controllers.PathFinderController.GetNomenclatures">
+            <summary>
+            1000 номенклатур
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:pathfinder.Controllers.PathFinderController.GetProducts">
+            <summary>
+            1000 продуктов, с их айди по номенклатуре и айди склада
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:pathfinder.Controllers.PathFinderController.GetWarehouses">
+            <summary>
+            1000 складов
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:pathfinder.Controllers.PathFinderController.GetProductById(System.Int32)">
+            <summary>
+            Находим на каком складе продукт по его айди
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="F:pathfinder.Controllers.WarehouseController._warehouseService">
+            <summary>
+            Тут работаем с товаром
+            </summary>
+        </member>
+        <member name="M:pathfinder.Controllers.WarehouseController.MoveProduct(pathfinder.Controllers.WarehouseController.MoveProductRequest)">
+            <summary>
+            Перемещаем товар на нужный нам склад
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+        <member name="M:pathfinder.Controllers.WarehouseController.GetProductHistory(System.Int32)">
+            <summary>
+            Получаем историю перемещения товара (используя запрос выше)
+            </summary>
+            <param name="productId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:pathfinder.Controllers.WarehouseController.GetWarehousePath(System.Int32,System.Int32)">
+            <summary>
+            Получаем количество шагов для достижения результата (сам товар не передвигается)
+            </summary>
+            <param name="productId" description="Айди продукта который мы хотим переместить"></param>
+            <param name="targetWarehouseId" description="Айди склада на который мы хотим перенести вышеуказанный продукт"></param>
+            <returns></returns>
+        </member>
+        <member name="T:pathfinder.Migrations.UpdateSchemaWithoutDeleting">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.UpdateSchemaWithoutDeleting.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.UpdateSchemaWithoutDeleting.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:pathfinder.Migrations.NewMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.NewMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.NewMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.NewMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:pathfinder.Migrations.AddWarehouseConnections">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.AddWarehouseConnections.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.AddWarehouseConnections.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:pathfinder.Migrations.AddWarehouseConnections.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
